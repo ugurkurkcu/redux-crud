@@ -6,6 +6,6 @@
 
 <p>HTML-CSS-JS-REACT-REDUX kullanıldı. </br> Responsive yapı kullanıldı</p>
 
-![](/gif/screen-1.gif)
+![](/public/gif/screen-1.gif)
 # redux-crud
 # redux-crud
